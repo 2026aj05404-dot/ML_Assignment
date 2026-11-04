@@ -9,7 +9,7 @@ from sklearn.metrics import (
 )
 
 ROOT = Path(__file__).resolve().parent
-MODEL_DIR = ROOT / "models"
+MODEL_DIR = ROOT / "models" if (ROOT / "models").is_dir() else ROOT
 TARGET = "diagnosis"
 
 MODEL_FILES = {
