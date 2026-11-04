@@ -1,0 +1,6 @@
+Dataset: Breast Cancer Wisconsin (Diagnostic)
+Instances: 569
+Features: 30 numeric features
+Target: diagnosis (0 = malignant, 1 = benign)
+Split: 80% train / 20% test; stratified; random_state=42
+Positive class for Precision, Recall, F1 and AUC: malignant (class 0)
