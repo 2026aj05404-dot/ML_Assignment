@@ -40,4 +40,4 @@ The app accepts a CSV containing the 30 feature columns. Include the `diagnosis`
 - Streamlit Community Cloud: add the deployed app URL after deployment.
 
 ## Academic note
-Run the project yourself in BITS Virtual Lab, inspect the outputs, and write your own observations. Add your genuine BITS Lab screenshot separately as required by the assignment.
+Run the project yourself, inspect the outputs, and write your own observations. Add your genuine BITS Virtual Lab screenshot separately as required by the assignment.
